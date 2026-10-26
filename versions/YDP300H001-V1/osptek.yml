@@ -1,0 +1,10 @@
+id: YDP300H001-V1
+category: displays
+size: "3"
+panel: tft
+resolution: 360x640
+interface: [mipi, rgb]
+driver: GC9503CV
+touch: null
+outline: 42.7 x 74.7 mm
+active_area: 36.72 x 65.28 mm
